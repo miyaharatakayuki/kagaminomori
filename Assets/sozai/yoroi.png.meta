@@ -1,0 +1,1770 @@
+fileFormatVersion: 2
+guid: a698608c53f81044b990597dc49916bd
+timeCreated: 1520821673
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yoroi_0
+    21300002: yoroi_1
+    21300004: yoroi_2
+    21300006: yoroi_3
+    21300008: yoroi_4
+    21300010: yoroi_5
+    21300012: yoroi_6
+    21300014: yoroi_7
+    21300016: yoroi_8
+    21300018: yoroi_9
+    21300020: yoroi_10
+    21300022: yoroi_11
+    21300024: yoroi_12
+    21300026: yoroi_13
+    21300028: yoroi_14
+    21300030: yoroi_15
+    21300032: yoroi_16
+    21300034: yoroi_17
+    21300036: yoroi_18
+    21300038: yoroi_19
+    21300040: yoroi_20
+    21300042: yoroi_21
+    21300044: yoroi_22
+    21300046: yoroi_23
+    21300048: yoroi_24
+    21300050: yoroi_25
+    21300052: yoroi_26
+    21300054: yoroi_27
+    21300056: yoroi_28
+    21300058: yoroi_29
+    21300060: yoroi_30
+    21300062: yoroi_31
+    21300064: yoroi_32
+    21300066: yoroi_33
+    21300068: yoroi_34
+    21300070: yoroi_35
+    21300072: yoroi_36
+    21300074: yoroi_37
+    21300076: yoroi_38
+    21300078: yoroi_39
+    21300080: yoroi_40
+    21300082: yoroi_41
+    21300084: yoroi_42
+    21300086: yoroi_43
+    21300088: yoroi_44
+    21300090: yoroi_45
+    21300092: yoroi_46
+    21300094: yoroi_47
+    21300096: yoroi_48
+    21300098: yoroi_49
+    21300100: yoroi_50
+    21300102: yoroi_51
+    21300104: yoroi_52
+    21300106: yoroi_53
+    21300108: yoroi_54
+    21300110: yoroi_55
+    21300112: yoroi_56
+    21300114: yoroi_57
+    21300116: yoroi_58
+    21300118: yoroi_59
+    21300120: yoroi_60
+    21300122: yoroi_61
+    21300124: yoroi_62
+    21300126: yoroi_63
+    21300128: yoroi_64
+    21300130: yoroi_65
+    21300132: yoroi_66
+    21300134: yoroi_67
+    21300136: yoroi_68
+    21300138: yoroi_69
+    21300140: yoroi_70
+    21300142: yoroi_71
+    21300144: yoroi_72
+    21300146: yoroi_73
+    21300148: yoroi_74
+    21300150: yoroi_75
+    21300152: yoroi_76
+    21300154: yoroi_77
+    21300156: yoroi_78
+    21300158: yoroi_79
+    21300160: yoroi_80
+    21300162: yoroi_81
+    21300164: yoroi_82
+    21300166: yoroi_83
+    21300168: yoroi_84
+    21300170: yoroi_85
+    21300172: yoroi_86
+    21300174: yoroi_87
+    21300176: yoroi_88
+    21300178: yoroi_89
+    21300180: yoroi_90
+    21300182: yoroi_91
+    21300184: yoroi_92
+    21300186: yoroi_93
+    21300188: yoroi_94
+    21300190: yoroi_95
+    21300192: yoroi_96
+    21300194: yoroi_97
+    21300196: yoroi_98
+    21300198: yoroi_99
+    21300200: yoroi_100
+    21300202: yoroi_101
+    21300204: yoroi_102
+    21300206: yoroi_103
+    21300208: yoroi_104
+    21300210: yoroi_105
+    21300212: yoroi_106
+    21300214: yoroi_107
+    21300216: yoroi_108
+    21300218: yoroi_109
+    21300220: yoroi_110
+    21300222: yoroi_111
+    21300224: yoroi_112
+    21300226: yoroi_113
+    21300228: yoroi_114
+    21300230: yoroi_115
+    21300232: yoroi_116
+    21300234: yoroi_117
+    21300236: yoroi_118
+    21300238: yoroi_119
+    21300240: yoroi_120
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yoroi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1034
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 934
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 834
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_43
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 734
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 634
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_60
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_63
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 534
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_73
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_76
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 434
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_86
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_87
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 334
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_93
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_94
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_96
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_97
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_98
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 234
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_104
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_106
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_108
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_109
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 134
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_111
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_112
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_115
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_117
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_118
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_119
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yoroi_120
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 34
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
