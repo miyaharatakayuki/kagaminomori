@@ -25,7 +25,7 @@ public class maneg : MonoBehaviour {
     {
         this.player = GameObject.Find("player");
         Vector3 playerPos = this.player.transform.position;
-        transform.position = new Vector3(playerPos.x, playerPos.y, transform.position.z);
+        transform.position = new Vector3(playerPos.x, playerPos.y+5.0f, transform.position.z);
         /*transform.position -= new Vector3(0.5f, 0, 0);
         if (transform.position.x <= -16)
         {

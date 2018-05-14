@@ -47,7 +47,7 @@ public class tekiB : MonoBehaviour {
 
             if (frame2 == 50)
             {
-                Instantiate(bullet_teki, new Vector2(transform.position.x - 0.1f, transform.position.y - 0.5f), Quaternion.identity); // 敵の位置に弾を生成します
+                Instantiate(bullet_teki, new Vector2(transform.position.x - 0.1f, transform.position.y), Quaternion.identity); // 敵の位置に弾を生成します
                 audioSource.clip = audioClip1;
                 audioSource.Play();
                 frame2 = 0;
