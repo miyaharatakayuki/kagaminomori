@@ -82,35 +82,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\Flush.cs" />
-    <Compile Include="Assets\script\GameClear.cs" />
-    <Compile Include="Assets\script\GameOver.cs" />
-    <Compile Include="Assets\script\Life.cs" />
-    <Compile Include="Assets\script\MissCheck.cs" />
-    <Compile Include="Assets\script\MissCheckU.cs" />
+    <Compile Include="Assets\script\Camera.cs" />
     <Compile Include="Assets\script\Title.cs" />
-    <Compile Include="Assets\script\akazukin.cs" />
     <Compile Include="Assets\script\boss.cs" />
-    <Compile Include="Assets\script\bullet.cs" />
-    <Compile Include="Assets\script\ghost.cs" />
-    <Compile Include="Assets\script\gimic.cs" />
-    <Compile Include="Assets\script\gimic2.cs" />
-    <Compile Include="Assets\script\gimic3.cs" />
-    <Compile Include="Assets\script\gimic4.cs" />
-    <Compile Include="Assets\script\gimic4r.cs" />
     <Compile Include="Assets\script\goustgene.cs" />
-    <Compile Include="Assets\script\kagami.cs" />
-    <Compile Include="Assets\script\kisi.cs" />
-    <Compile Include="Assets\script\maneg.cs" />
-    <Compile Include="Assets\script\manegUI.cs" />
     <Compile Include="Assets\script\player.cs" />
     <Compile Include="Assets\script\rigid.cs" />
     <Compile Include="Assets\script\rigit2.cs" />
-    <Compile Include="Assets\script\sousa.cs" />
-    <Compile Include="Assets\script\teki.cs" />
-    <Compile Include="Assets\script\tekiA.cs" />
-    <Compile Include="Assets\script\tekiB.cs" />
-    <Compile Include="Assets\script\tekihp.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
