@@ -17,10 +17,10 @@ public class goustgene : MonoBehaviour {
         if (this.delta > this.span)
         {
             this.delta = 0;
-            GameObject go = Instantiate(ghostPrefab) as GameObject;
+            //GameObject go = Instantiate(ghostPrefab) as GameObject;
             int px = Random.Range(150, 180);
             int py = Random.Range(0, 9);
-            go.transform.position = new Vector3(px, py, 0);
+           // go.transform.position = new Vector3(px, py, 0);
         }
     }
 }

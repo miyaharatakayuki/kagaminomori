@@ -10,7 +10,7 @@ public class boss : MonoBehaviour {
     public GameObject archr;
     int frame;
     public GameObject bullet_teki; // 弾のオブジェクト
-    public player Player;
+    //public player Player;
     public AudioClip audioClip1;
     public AudioClip audioClip2;
     private AudioSource audioSource;
@@ -33,7 +33,7 @@ public class boss : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        if (Player.transform.position.x >= 170)
+        if (transform.position.x >= 170)
         {
             this.delta += Time.deltaTime;
             if (this.delta > this.span)
